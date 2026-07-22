@@ -4,8 +4,8 @@ Sou estudante de **Sistemas de Informação no CEFET-MG** e desenvolvedora full-
 
 - 🔭 Atualmente trabalhando em dashboards financeiros e plataformas SaaS com **FastAPI + React**
 - 🌱 Aprendendo mais sobre **IA aplicada** — sistemas RAG, Agentic RAG e redes neurais
-- 💬 Me pergunte sobre **Python, React, PostgreSQL, deploy (Docker/Coolify) e automação com n8n**
-- ⚡ Fun fact: já treinei modelos pra classificar cantos de pássaros e níveis de torra de café ☕🐦
+- 💬 Me pergunte sobre **Python, React, PostgreSQL, deploy e automação**
+
 
 <div align="center">
 
