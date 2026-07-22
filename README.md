@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Isabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabella-pila&show_icons=true&theme=dracula)](https://github.com/isabella-pila)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=isabella-pila)](https://github.com/stats-organization/github-stats-extended)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=isabella-pila&layout=compact&langs_count=8&hide_border=true&theme=dracula)](https://github.com/isabella-pila)
+
