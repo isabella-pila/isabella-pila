@@ -16,8 +16,3 @@ Sou estudante de **Sistemas de Informação no CEFET-MG** e desenvolvedora full-
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/isabella-pila/isabella-pila/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/isabella-pila/isabella-pila/blob/output/github-snake.svg" />
-  <img alt="snake" src="https://github.com/isabella-pila/isabella-pila/blob/output/github-snake.svg" />
-</picture>
